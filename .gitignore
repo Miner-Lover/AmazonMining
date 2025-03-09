@@ -1,5 +1,7 @@
 copurchase.csv
 products.csv
+copurchase_cleaned.csv
+products_cleaned.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
