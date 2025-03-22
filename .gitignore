@@ -2,6 +2,9 @@ copurchase.csv
 products.csv
 copurchase_cleaned.csv
 products_cleaned.csv
+products_cleaned_engineered.csv
+*.pickle
+*.graphml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
